@@ -8,7 +8,7 @@ Gazal Kalyan
 
 
 # Usage
-python2.7 renumber_save_pdb.py <pdb_filename>
+python2.7 pymol_renumber.py <pdb_filename>
 
 # Files included
 - renumber_save_pdb.py python code for renumbering using pymol
