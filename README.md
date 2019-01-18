@@ -2,6 +2,8 @@
 Created on Jan 18, 2019 
 Gazal Kalyan
 
+This is to renumber Residue Numbers starting from position specified.
+
 # Requirements
 - Pymol
 - Python2.7
